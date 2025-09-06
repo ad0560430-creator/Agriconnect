@@ -1,8 +1,11 @@
 # Agriconnect
 🌱 AgriConnect – AI-Powered Digital Mandi
+
 🚜 Problem
-Farmers in India face limited market access, unfair pricing by middlemen, unpredictable weather, lack of timely crop advice, and language barriers. Consumers and businesses face inconsistent supply and higher food costs.
+
+Farmers in India face limited market access, unfair pricing by middlemen, unpredictable weather, lack of timely crop advice, and language barriers. Consumers and businesses face inconsistent supply and higher food costs.                                                                                                                        
 💡 Solution
+
 AgriConnect is an AI-powered agriculture platform that:
 
 Provides regional-language AI chatbots for crop advisory & schemes
