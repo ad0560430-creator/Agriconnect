@@ -1,43 +1,42 @@
-# Agriconnect
-🌱 AgriConnect – AI-Powered Digital Mandi
+Agriconnect
+ AgriConnect – Multi-Agent Architecture 
 
-🚜 Problem
-
+Problem
 Farmers in India face limited market access, unfair pricing by middlemen, unpredictable weather, lack of timely crop advice, and language barriers. Consumers and businesses face inconsistent supply and higher food costs.                                                                                                                        
-💡 Solution
+Solution
+AgriConnect is a Multi-Agent AI-powered agriculture platform that helps farmers with smart decision-making.
+The system uses a main AI agent that coordinates multiple specialized agents:
 
-AgriConnect is an AI-powered agriculture platform that:
+-  Crop Advisory Agent – suggests crops and farming practices  
+-  Disease Detection Agent – identifies crop diseases and solutions  
+-  Weather Agent – provides weather-based recommendations  
+- Market Agent – gives pricing and mandi insights  
 
-Provides regional-language AI chatbots for crop advisory & schemes
+The main agent analyzes user queries and routes them to the appropriate sub-agent, enabling efficient and real-world agricultural workflows.
 
-Uses ML models for price prediction & market insights
+ Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- AI: OpenAI API / Gemini
+- Deployment: GitHub Pages
+  
+ Multi-Agent Flow
+The system follows a multi-agent architecture:
+1. User sends a query  
+2. The main agent analyzes the request  
+3. Routes to appropriate sub-agent:
+   - Crop Advisory Agent
+   - Disease Detection Agent
+   - Weather Agent
+   - Market Agent  
+4. Sub-agent processes the request  
+5. Response is returned to the user  
+This enables efficient handling of complex agricultural queries.
 
-Offers a smart marketplace connecting farmers directly with buyers
-
-Enables AI crop disease detection via photo uploads
-
-Promotes sustainability by reducing waste with demand forecasting
-
-🔧 Tech Stack
-
-OpenAI GPT APIs – multilingual chatbot, advisory
-
-Machine Learning – price trends & forecasting
-
-Computer Vision – crop disease detection
-
-Mobile-first design – farmer-friendly interface
-
-🚀 Roadmap
-
+ Roadmap
 Pilot launch in selected districts
-
 Onboard farmers, buyers & experts for feedback
-
 Scale via FPOs, cooperatives & agri-startups
-
 Nationwide rollout with gov’t & fintech integration
 
-📌 Vision
-
+ Vision
 To build India’s largest AI-powered digital mandi, ensuring farmers get fair prices, businesses get reliable supply, and consumers get fresher food.
